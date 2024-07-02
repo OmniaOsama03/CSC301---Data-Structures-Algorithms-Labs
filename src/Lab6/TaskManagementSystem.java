@@ -2,8 +2,6 @@ package Lab6;
 
 import java.util.*;
 
-//Omnia Osama Ahmed 1084505
-
 public class TaskManagementSystem {
     private static LinkedList<Task> taskList = new LinkedList<>();
     private static Scanner scanner= new Scanner(System.in);

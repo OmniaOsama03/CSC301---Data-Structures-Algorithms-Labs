@@ -1,5 +1,4 @@
 package Lab9;
-//Omnia Osama Ahmed 1084505
 public class BST<E extends Comparable<E>> extends AbstractTree<E> {
     protected TreeNode<E> root;
     protected int size = 0;

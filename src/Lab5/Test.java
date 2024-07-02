@@ -1,11 +1,9 @@
 package Lab5;
-//Omnia Osama Ahmed 1084505
 
 import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Iterator;
 
-//Omnia Osama Ahmed 1084505
 public class Test {
     static LinkedList<Pharmacy> Pharmacies = new LinkedList<Pharmacy>();
 

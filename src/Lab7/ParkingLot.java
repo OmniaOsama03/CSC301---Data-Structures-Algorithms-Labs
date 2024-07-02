@@ -2,7 +2,6 @@ package Lab7;
 
 import java.util.LinkedList;
 import java.util.Queue;
-//Omnia Osama Ahmed
 class ParkingLot {
     private Queue<Vehicle> parkingQueue;
     private int capacity;

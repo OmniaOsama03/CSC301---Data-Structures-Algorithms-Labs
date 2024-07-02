@@ -1,5 +1,4 @@
 package Lab1;
-//Omnia Osama Ahmed - 1084505
 public class FlightInfo                        //Abu Dhabi Airport- flight information
 {
     //The datafields:

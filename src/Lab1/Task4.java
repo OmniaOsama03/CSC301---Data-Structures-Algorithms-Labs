@@ -5,7 +5,6 @@ import java.io.FileNotFoundException;
 import java.sql.Date;
 import java.util.Scanner;
 
-//Omnia Osama Ahmed- 1084505
 public class Task4 {
     public static void main(String[] args) throws FileNotFoundException {
         java.io.File file = new java.io.File("C:/Users/maado/Desktop/violations.txt");

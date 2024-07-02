@@ -1,5 +1,4 @@
 package Lab9;
-//Omnia Osama Ahmed 1084505
 public abstract class AbstractTree<E> implements Tree<E> {
 
     @Override /** Inorder traversal from the root*/

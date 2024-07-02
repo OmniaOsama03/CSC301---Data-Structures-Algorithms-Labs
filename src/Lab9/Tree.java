@@ -1,5 +1,4 @@
 package Lab9;
-//Omnia Osama Ahmed 1084505
 public interface Tree<E> extends Iterable<E> {
     /** Return true if the element is in the tree */
     public boolean search(E e);

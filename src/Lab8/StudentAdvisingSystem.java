@@ -2,8 +2,6 @@ package Lab8;
 
 import java.util.PriorityQueue;
 
-//Omnia Osama Ahmed- 1084505
-
 public class StudentAdvisingSystem {
     public static void main(String[] args) {
         PriorityQueue<StudentInfo> AdvisingQueue = new PriorityQueue<>(new GPAComparator());

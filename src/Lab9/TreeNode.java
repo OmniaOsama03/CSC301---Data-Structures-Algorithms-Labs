@@ -1,6 +1,5 @@
 package Lab9;
 
-//Omnia Osama Ahmed 1084505
 public class TreeNode<E extends Comparable<E>> {
     protected E element;
     protected TreeNode<E> left, right;

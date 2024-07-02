@@ -1,5 +1,4 @@
 package Lab9;
-//Omnia Osama Ahmed 1084505
 public class BST_Integer extends BST<Integer> {
 
     public BST_Integer(int[] array) {

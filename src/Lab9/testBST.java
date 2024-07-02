@@ -1,5 +1,4 @@
 package Lab9;
-//Omnia Osama Ahmed 1084505
 public class testBST {
     public static void main(String[] args) {
         BST_Integer tree1, tree2;

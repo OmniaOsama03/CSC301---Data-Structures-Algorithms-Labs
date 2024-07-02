@@ -1,8 +1,7 @@
 package Lab6;
 
 import java.util.*;
-//Omnia Osama Ahmed 1084505
-class Task //Omnia Osama Ahmed
+class Task
 {
     private String description;
     private int duration; // Duration in minutes

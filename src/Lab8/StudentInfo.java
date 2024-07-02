@@ -1,5 +1,4 @@
 package Lab8;
-//Omnia Osama Ahmed - 1084505
 public class StudentInfo
 {
         private String Name;

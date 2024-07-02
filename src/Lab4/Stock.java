@@ -1,5 +1,4 @@
 package Lab4;
-//Omnia Osama Ahmed- 1084505
 public class Stock implements Comparable<Stock>
 {
         float ADJClose05, Change05, Close05, High05, LastTradePrice05, Low05, Open05, PercentageChange05,

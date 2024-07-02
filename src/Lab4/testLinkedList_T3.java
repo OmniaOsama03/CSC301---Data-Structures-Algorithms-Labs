@@ -2,7 +2,6 @@ package Lab4;
 
 import java.util.*;
 
-//Omnia Osama Ahmed
 public class testLinkedList_T3 {
     public static void main(String[] args)
     {

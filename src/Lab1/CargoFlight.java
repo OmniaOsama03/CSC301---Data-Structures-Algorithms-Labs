@@ -1,5 +1,4 @@
 package Lab1;
-//Omnia Osama Ahmed- 1084505
 public class CargoFlight extends FlightInfo      //This class is for Cargo flights in particular.
 {
     private int flightNumber;

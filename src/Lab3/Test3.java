@@ -2,7 +2,6 @@ package Lab3;
 import java.util.*;
 import java.io.*;
 
-//OMNIA OSAMA AHMED 1084505
 public class Test3 {
     public static void main(String[] args) {
 

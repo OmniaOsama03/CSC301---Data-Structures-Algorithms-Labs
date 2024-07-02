@@ -1,5 +1,4 @@
 package Lab5;
-//Omnia Osama Ahmed 1084505
 public class Medicine
 {
 

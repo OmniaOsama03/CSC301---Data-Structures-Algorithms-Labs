@@ -1,5 +1,4 @@
 package Lab7;
-//Omnia Osama Ahmed - 1084505
 
 public class ParkingLotSimulation
 {

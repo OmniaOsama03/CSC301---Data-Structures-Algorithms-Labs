@@ -3,7 +3,6 @@ package Lab8;
 import java.util.LinkedList;
 import java.util.Queue;
 
-//Omnia Osama Ahmed - 1084505
 public class test {
     public static void main(String[] args) {
         // Create a FIFO queue using a LinkedList

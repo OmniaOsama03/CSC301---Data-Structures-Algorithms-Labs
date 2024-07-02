@@ -1,6 +1,6 @@
 package Lab2;
 public class Test2
-{ //OMNIA OSAMA AHMED- 1084505
+{
   public static void main(String[] args)
   {
             try

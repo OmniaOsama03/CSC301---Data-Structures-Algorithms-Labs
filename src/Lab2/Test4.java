@@ -2,7 +2,6 @@ package Lab2;
 
 public class Test4
 {
-    //Omnia Osama Ahmed- 1084505
     public static void main(String[] args)
     {
         System.out.println("Average number of accidents in a week");

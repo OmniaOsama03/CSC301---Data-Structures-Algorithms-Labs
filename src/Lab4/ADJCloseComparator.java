@@ -1,5 +1,4 @@
 package Lab4;
-//Omnia Osama Ahmed 1084505
 import java.util.*;
  class ADJCloseComparator implements Comparator<Stock>
 {

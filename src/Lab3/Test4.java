@@ -1,6 +1,5 @@
 package Lab3;
 
-//OMNIA OSAMA AHMED 1084505
 public class Test4
 {
    public static void main(String[] args) {

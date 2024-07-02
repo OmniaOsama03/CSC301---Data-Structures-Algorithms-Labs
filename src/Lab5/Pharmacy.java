@@ -1,7 +1,6 @@
 package Lab5;
 
 import java.util.LinkedList;
-//Omnia Osama Ahmed 1084505
 
 public class Pharmacy {
 

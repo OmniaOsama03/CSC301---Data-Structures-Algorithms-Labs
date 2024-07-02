@@ -1,7 +1,6 @@
 package Lab8;
 import java.util.*;
 
-//Omnia Osama Ahmed - 1084505
 public class GPAComparator implements Comparator<StudentInfo>
 {
     @Override
